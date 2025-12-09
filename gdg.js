@@ -2,7 +2,7 @@ console.log("---tiket masuk tempat wisata---");
 
 let pengunjung = [
     {nama: "Nabil", umur: 18},
-    {nama: "Anto", umur: 51},
+    {nama: "sutisno", umur: 65},
     {nama: "Budi", umur: 10}
 ];
 
